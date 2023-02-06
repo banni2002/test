@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+*{margin: 0; padding: 0;}
+.container{
+    width: 1250px;  
+    height: 935px;
+}
+.slidebar{
+    width: 150px;
+    height: 935px;
+    background: #191718;
+    float: left;
+}
+.boder{
+    position: absolute;
+    width: 150px;
+    height: 0px;
+    left: 0px;
+    top: 44px;
+}
+.background{
+    width: 1100px;
+    height: 935px;
+    background: #FFFFFF;
+    float: left;
+}
+.home{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    top: 30px;
+}
+
+h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 15px;
+    padding-left: 20px;
+    border: 1px solid #5C5C5C;
+}
+.boder{
+    position: absolute;
+    width: 150px;
+    height: 0px;
+    left: 0px;
+    top: 44px;
+    background: #5C5C5C;
+}
+.logo img{
+    position: absolute;
+    width: 310px;
+    height: 250px;
+    left: 45%;
+    top: 10px;
+    background-repeat: no-repeat;
+}
+.retangle4{
+    position: absolute;
+    width: 1000px;
+    height: 210px;
+    top: 220px;
+    left: 17%;
+    background: #EFEFEF;
+}
+h2{
+    position: absolute;
+    width: 241px;
+    height: 21px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    left: 40%;
+    top: 20px;
+/* identical to box height */
+
+    color: #000000;
+}
+p1{
+    position: absolute;
+    width: 972px;
+    height: 95px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    top: 70px;
+    color: #000000;
+
+}
+.khoi1{
+    height: 300px;
+    width: 300px;
+    margin-top: 500px;
+    margin-left: 60px;
+    float: left;
+}
+.khoi1 img{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
+.khoi1 p2{
+    position: absolute;
+    width: 326px;
+    height: 134px;
+    margin-left: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 19px;
+    color: #000000;
+
+}
+.khoi1 p3{
+    position: absolute;
+    width: 470px;
+    height: 72px;
+    margin-left: 10px;
+    margin-top: 110px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 19px;
+
+    color: #000000;
+}
+.khoi2{
+    height: 300px;
+    width: 300px;
+    margin-top: 500px;
+    margin-left: 60px;
+    float: left;
+}
+.khoi2 img{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
+.khoi2 p4{
+    position: absolute;
+    width: 326px;
+    height: 134px;
+    margin-left: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 19px;
+    color: #000000;
+
+}
+.khoi2 p5{
+    position: absolute;
+    width: 470px;
+    height: 72px;
+    margin-left: 10px;
+    margin-top: 110px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 19px;
+
+    color: #000000;
+}
+.khoi3{
+    height: 300px;
+    width: 300px;
+    margin-top: 500px;
+    margin-left: 60px;
+    float: left;
+}
+.khoi3 img{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
+.khoi3 p6{
+    position: absolute;
+    width: 326px;
+    height: 134px;
+    margin-left: 65px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 19px;
+    color: #000000;
+
+}
+.khoi3 p7{
+    position: absolute;
+    width: 470px;
+    height: 72px;
+    margin-left: 10px;
+    margin-top: 110px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 19px;
+
+    color: #000000;
+}
+.footer{
+    position: absolute;
+    width: 1768px;
+    height: 79px;
+    top: 856px;
+}
+.rectangle5{
+    position: absolute;
+    width: 1768px;
+    height: 79px;    
+}
+.top{
+    position: absolute;
+    height: 0px;
+    left: 0px;
+    right: 0px;
+    top: 1px;
+    
+    border: 1px solid #DEDEDE;
+}
+h6{
+    position: absolute;
+    width: 125px;
+    height: 19px;
+    margin-top: 10px;
+    left: 50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    color: #3E3E3E;
+}
